@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#myCanvas {
+    background-color: #eee;
+}
+
+#runButton {
+    display: block;
+}
